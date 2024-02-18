@@ -1,1 +1,3 @@
-# LAB-2-AAW-221
+# LAB2_AAW-221_OOP
+Realizat de Rudinciuc Victor 
+Python
