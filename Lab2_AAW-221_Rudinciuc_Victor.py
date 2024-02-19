@@ -10,7 +10,7 @@ class Logger:
         logging.info(message)
 
 logger = Logger()
-
+#VictorRudinciuc
 class StudyField:
     MECHANICAL_ENGINEERING = "MECHANICAL ENGINEERING"
     SOFTWARE_ENGINEERING = "SOFTWARE ENGINEERING"
